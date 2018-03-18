@@ -20,7 +20,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 */
  
-/* fine */
+/* da webstorm */
 
 var DEVICE_WITH_TOUCH_EVENTS = "ontouchstart" in window;
 

@@ -25,6 +25,8 @@ THE SOFTWARE.
 
 /* apportata modifica */
 
+/* altra modifica */
+
 
 var DEVICE_WITH_TOUCH_EVENTS = "ontouchstart" in window;
 
